@@ -1,0 +1,66 @@
+div{
+    background-color: orangered;
+    color: aliceblue;
+}
+center{
+    background-color: white;
+    color: black;
+    
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+.one{
+    background-color: orangered;
+    color: white;
+}
+.two{
+    background-color: white;
+    color: orangered;
+}
+.ten{
+    padding: 50px;
+    margin: ;
+}
+.three{
+    background-color: orangered;
+    color: white;
+}
+#one{
+    padding: 40px;
+}
+#two{
+    color: yellow;
+}
+#four{
+    color: yellow;
+}
+table {
+    background-color: black;
+    color: aqua;
+}
